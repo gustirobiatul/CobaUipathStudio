@@ -5,6 +5,7 @@
   "dependencies": {
     "System.Text.RegularExpressions": "[4.3.1]",
     "UiPath.Excel.Activities": "[2.16.0]",
+    "UiPath.Mail.Activities": "[1.18.1]",
     "UiPath.PDF.Activities": "[3.10.1]",
     "UiPath.System.Activities": "[22.10.3]",
     "UiPath.Testing.Activities": "[22.10.0]",
